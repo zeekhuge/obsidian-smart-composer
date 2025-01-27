@@ -1,10 +1,10 @@
 {
-  "id": "smart-composer",
-  "name": "Smart Composer",
+  "id": "smart-composer-smarter",
+  "name": "Smart Composer Smarter",
   "version": "1.0.12",
   "minAppVersion": "0.15.0",
   "description": "AI chat with note context, smart writing assistance, and one-click edits for your vault.",
-  "author": "Heesu Suh",
+  "author": "Heesu Suh & zeekhuge",
   "authorUrl": "https://github.com/glowingjade",
   "fundingUrl": "https://buymeacoffee.com/glowingjade",
   "isDesktopOnly": false
